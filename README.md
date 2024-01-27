@@ -1,2 +1,3 @@
-# JavaProject
-# JavaProject
+StudentDatabaseManagement
+This Java program is a simple student database management system that allows
+users to perform various operations related to student information.I contributed to the creation of the Student class, StudentDatabaseManagement class, Main Method, and the logic for Menu and User Input Handling. My team members took charge of implementing the Switch Statement for Menu Options, as well as handling the functionality for adding students, viewing student details, searching for specific students, calculating average marks, and exiting the program. This collaborative effort has resulted in a comprehensive and functional student database management system.
